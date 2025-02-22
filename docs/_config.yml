@@ -27,8 +27,8 @@ url: "https://www.glangendam.nl" # the base hostname & protocol for your site, e
 github_username: glangendam
 
 # Build settings
-# theme: jekyll-theme-minimal 
-remote-theme: minima
+theme: minima
+# remote-theme: minima
 plugins:
 - jekyll-feed
 
