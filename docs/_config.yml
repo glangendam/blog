@@ -35,8 +35,8 @@ minima:
       url: "https://www.linkedin.com/in/geert-langendam/"
 
 # Build settings
-# theme: jekyll-theme-minimal 
-remote-theme: minima
+theme: minima
+# remote-theme: minima
 plugins:
 - jekyll-feed
 
