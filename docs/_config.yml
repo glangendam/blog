@@ -21,9 +21,9 @@
 title: Geert's Blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Op deze site schrijf ik stukjes over dingen die mij interesseren. Mijn voornaamste doel is om hier zelf van te leren, maar ik hoop dat jij, de lezer, veel leesplezier hebt en mogelijk ook wat leert.
+"Op deze site schrijf ik stukjes over dingen die mij interesseren. Mijn voornaamste doel is om hier zelf van te leren, maar ik hoop dat jij, de lezer, veel leesplezier hebt en mogelijk ook wat leert."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.glangendam.nl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.glangendam.nl" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: glangendam
 
 # Build settings
