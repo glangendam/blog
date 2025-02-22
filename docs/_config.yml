@@ -18,19 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Geert's Blog
+title: Geert Langendam
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Op deze site schrijf ik stukjes over dingen die mij interesseren. Mijn voornaamste doel is om hier zelf van te leren, maar ik hoop dat jij, de lezer, veel leesplezier hebt en mogelijk ook wat leert.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.glangendam.nl" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: glangendam
+
+minima:
+  social links:
+    - title: Repository van deze site op GitHub
+      icon: github
+      url: "hhttps://github.com/glangendam/blog"
+    - title: Mijn LinkedIn profiel
+      icon: linkedin
+      url: "https://www.linkedin.com/in/geert-langendam/"
 
 # Build settings
 # theme: jekyll-theme-minimal 
 remote-theme: minima
 plugins:
 - jekyll-feed
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this minima:
+date_format: "%Y-%m-%d""
 
 # Exclude from processing.
 # The following items will not be processed, by default.
