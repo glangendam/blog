@@ -4,5 +4,8 @@
 
 layout: home
 ---
+# Hallo
+Ik ben Geert en dit is mijn site.
 
-Hallo wereld
+## Waarom ik dit doe
+Om dingen te leren.
