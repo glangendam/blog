@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Hallo
 Ik ben Geert en dit is mijn site.
 
 ## Waarom ik dit doe
