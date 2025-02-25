@@ -7,5 +7,9 @@ categories: test
 Dit is een testpagina
 
 # Hallo testpagina
+Hoi [Jekyll docs][jekyll-docs]
 
-Hoi
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+
+
