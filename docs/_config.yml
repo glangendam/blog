@@ -32,15 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  social_links:
-   - title: My profile on Linkedin
-     icon: linkedin
-     url: "https://www.linkedin.com/in/geert-langendam/"
-   - title: This site's repository at GitHub
-     icon: github
-     url: "https://github.com/glangendam/blog"
- 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
