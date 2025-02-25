@@ -7,3 +7,5 @@ layout: page
 
 Ik ben Geert en ik doe security architect dingen. Soms.
 
+## CVE Record
+[https://csirt.divd.nl/cves/CVE-2024-21875/|DoS attack when broadcasting billboard messages]
