@@ -6,4 +6,4 @@ permalink: /woordenlijst/
 
 |Woord/Afkorting|Betekenis|
 |---|---|
-|TIBER|Threat Intelligence-Based Ethical Red Teaming|
+|TIBER-EU|Threat Intelligence-Based Ethical Red Teaming|
