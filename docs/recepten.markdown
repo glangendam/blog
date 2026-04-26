@@ -8,7 +8,7 @@ Hier staan al mijn recepten:
 
 {% for recept in site.recepten %}
   <h2>
-    <a href="{{ recept.url }}"
+    <a href="{{ recept.url }}">
       {{ recept.naam }}
     </a>
   </h2>
