@@ -1,8 +1,10 @@
 ---
+layout: page
 naam: Citroenpasta
 soort: Hoofdgerecht
 keuken: Italie
 ---
+# Citroenpasta
 
 ## Ingredienten
 - 1 citroen

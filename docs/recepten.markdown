@@ -12,6 +12,6 @@ Hier staan al mijn recepten:
       {{ recept.naam }}
     </a>
   </h2>
-  <h3>{{ recept.soort }} - {{ recept.keuken }}</h3>
+  <p>{{ recept.soort }} - {{ recept.keuken }}</p>
 {% endfor %}
 
