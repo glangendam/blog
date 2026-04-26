@@ -10,7 +10,7 @@ Hier staan al mijn recepten:
   <h2>
     <a href="{{ recept.url }}">
       {{ recept.naam }}
-    </a>
-  </h2> <p>{{ recept.soort }} - {{ recept.keuken }}</p>
+    </a> - {{ recept.soort }} - {{ recept.keuken }}
+  </h2>
 {% endfor %}
 
