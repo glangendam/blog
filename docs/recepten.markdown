@@ -11,7 +11,6 @@ Hier staan al mijn recepten:
     <a href="{{ recept.url }}">
       {{ recept.naam }}
     </a>
-  </h2>
-  <p>{{ recept.soort }} - {{ recept.keuken }}</p>
+  </h2> <p>{{ recept.soort }} - {{ recept.keuken }}</p>
 {% endfor %}
 

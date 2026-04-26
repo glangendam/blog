@@ -4,8 +4,6 @@ naam: Citroenpasta
 soort: Hoofdgerecht
 keuken: Italie
 ---
-# Citroenpasta
-
 ## Ingredienten
 - 1 citroen
 - 200 mL slagroom
