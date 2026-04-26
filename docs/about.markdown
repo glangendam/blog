@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ik ben Geert en ik doe security architect dingen. Soms.
+Ik ben Geert en ik doe security dingen.
 
 ## CVE Record
 [DoS attack when broadcasting billboard messages]

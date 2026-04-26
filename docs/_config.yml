@@ -21,7 +21,7 @@
 title: Geert Langendam
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Op deze site schrijf ik stukjes over dingen die mij interesseren. Mijn voornaamste doel is om hier zelf van te leren, maar ik hoop dat jij, de lezer, veel leesplezier hebt en mogelijk ook wat leert.
+	Deze site bevat nu voornamelijk nog recepten, mogelijk dat hier ooit meer komt. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.geertlangendam.nl" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: glangendam
@@ -31,6 +31,9 @@ linkedin_username: geert-langendam
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  recepten:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
