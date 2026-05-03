@@ -4,7 +4,7 @@ naam: Curry
 soort: Hoofdgerecht
 keuken: India
 ---
-## Ingredienten
+## Ingrediënten
 - ui
 - knoflook
 - chili peper

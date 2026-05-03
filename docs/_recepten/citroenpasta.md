@@ -2,9 +2,9 @@
 layout: page
 naam: Citroenpasta
 soort: Hoofdgerecht
-keuken: Italie
+keuken: Italiaans
 ---
-## Ingredienten
+## Ingrediënten
 - 1 citroen
 - 200 mL slagroom
 - 2 courgettes

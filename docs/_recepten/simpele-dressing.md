@@ -4,7 +4,7 @@ naam: Simpele dressing
 soort: Ingredient
 keuken: Italiaans
 ---
-## Ingredienten
+## Ingrediënten
 - mosterd
 - balsamico of rode wijn azijn
 - olijfolie

@@ -4,7 +4,7 @@ naam: Wentelteeftjes
 soort: Lunch
 keuken: Frans
 ---
-## Ingredienten
+## Ingrediënten
 - 1 ei
 - 75 mL melk
 - suiker

@@ -4,7 +4,7 @@ naam: Ketjap vleesjes
 soort: Hoofdgerecht
 keuken: Aziatisch
 ---
-## Ingredienten
+## Ingrediënten
 - knoflook
 - gemberwortel
 - maizena

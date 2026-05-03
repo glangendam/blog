@@ -2,9 +2,9 @@
 layout: page
 naam: Iekes naans
 soort: Lunch gerecht
-keuken: Fusion
+keuken: fusion
 ---
-## Ingredienten
+## Ingrediënten
 - naan brood
 - mayonaise
 - vadouvan

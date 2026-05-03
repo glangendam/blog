@@ -2,9 +2,9 @@
 layout: page
 naam: Kapsalon
 soort: Hoofdgerecht
-keuken: Fusion
+keuken: fusion
 ---
-## Ingredienten
+## Ingrediënten
 - ovenfriet
 - shoarma/gyros/gekruide kip
 - knoflooksaus

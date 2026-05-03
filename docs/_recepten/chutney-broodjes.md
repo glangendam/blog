@@ -2,9 +2,9 @@
 layout: page
 naam: Chutney broodjes
 soort: Lunch/hoofdgerecht
-keuken: Fusion
+keuken: fusion
 ---
-## Ingredienten
+## Ingrediënten
 - boterhammen
 - gehakt
 - mango chutney

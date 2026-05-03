@@ -4,7 +4,7 @@ naam: Gekruide kip
 soort: Hoofdgerecht
 keuken: fusion
 ---
-## Ingredienten
+## Ingrediënten
 - kippendijen
 - zonnebloem olie
 - kruiden: komijn, (gerookte) paprika, cayenne, vadouvan, gemalen knoflook, uienpoeder, gemalen gemberwortel, chili flakes, oregano, tijm, rozemarijn etc.
