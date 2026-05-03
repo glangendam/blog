@@ -6,7 +6,7 @@ keuken: fusion
 ---
 ## Ingrediënten
 - ovenfriet
-- shoarma/gyros/gekruide kip
+- shoarma/gyros/[gekruide kip](https://geertlangendam.nl/recepten/gekruide-kip.html)
 - knoflooksaus
 - sriracha
 - sla
