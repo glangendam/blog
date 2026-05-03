@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Chutney broodjes
-soort: Lunch/hoofdgerecht
+soort: lunch/hoofdgerecht
 keuken: fusion
 ---
 ## Ingrediënten

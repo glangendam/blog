@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Simpele dressing
-soort: Ingredient
+soort: ingredient
 keuken: Italiaans
 ---
 ## Ingrediënten

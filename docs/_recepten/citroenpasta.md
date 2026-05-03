@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Citroenpasta
-soort: Hoofdgerecht
+soort: hoofdgerecht
 keuken: Italiaans
 ---
 ## Ingrediënten

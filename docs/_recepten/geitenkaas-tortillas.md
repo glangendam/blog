@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Geitenkaas tortillas
-soort: Hoofdgerecht
+soort: hoofdgerecht
 keuken: Mexicaans
 ---
 ## Ingrediënten

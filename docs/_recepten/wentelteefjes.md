@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Wentelteeftjes
-soort: Lunch
+soort: lunch
 keuken: Frans
 ---
 ## Ingrediënten

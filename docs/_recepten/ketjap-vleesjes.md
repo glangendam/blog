@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Ketjap vleesjes
-soort: Hoofdgerecht
+soort: hoofdgerecht
 keuken: Aziatisch
 ---
 ## Ingrediënten

@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Gekruide kip
-soort: Hoofdgerecht
+soort: hoofdgerecht
 keuken: fusion
 ---
 ## Ingrediënten

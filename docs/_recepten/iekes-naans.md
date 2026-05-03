@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Iekes naans
-soort: Lunch gerecht
+soort: lunch gerecht
 keuken: fusion
 ---
 ## Ingrediënten

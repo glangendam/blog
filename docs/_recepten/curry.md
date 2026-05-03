@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Curry
-soort: Hoofdgerecht
+soort: hoofdgerecht
 keuken: India
 ---
 ## Ingrediënten
