@@ -1,7 +1,7 @@
 ---
 layout: page
 naam: Kapsalon
-Soort: hoofdgerecht
+soort: hoofdgerecht
 keuken: fusion
 ---
 ## Ingrediënten
