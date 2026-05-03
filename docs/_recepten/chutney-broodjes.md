@@ -2,7 +2,7 @@
 layout: page
 naam: Chutney broodjes
 soort: Lunch/hoofdgerecht
-keuken: *Fusion*
+keuken: Fusion
 ---
 ## Ingredienten
 - boterhammen
