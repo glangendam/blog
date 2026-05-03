@@ -1,8 +1,8 @@
 ---
 layout: page
-naam: Ieke's naans
+naam: Iekes naans
 soort: Lunch gerecht
-keuken: **Fusion**
+keuken: *Fusion*
 ---
 ## Ingredienten
 - naan brood
