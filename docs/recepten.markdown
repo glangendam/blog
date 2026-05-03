@@ -4,7 +4,7 @@ title: Recepten
 permalink: /recepten/
 ---
 
-Hier staan al mijn recepten:
+Hier staan mijn recepten, die ik heb bedacht of verzameld:
 
 {% for recept in site.recepten %}
   <h3>
