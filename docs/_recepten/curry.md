@@ -27,5 +27,6 @@ keuken: India
 
 5. Voeg de kokosmelk toe en laat deze inkoken tot je een dikke saus hebt.
 
+---
 [^1]: Bak eventueel de aubergine vantevoren even in de pan
 [^2]: Bak deze eventueel vantevoren in de oven of doe deze in de magnetron
